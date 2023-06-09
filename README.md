@@ -1,2 +1,2 @@
 # imgui-psp
-dear ImGui port for PSVITA (pspsdk).
+dear ImGui port for PSP (pspsdk).
